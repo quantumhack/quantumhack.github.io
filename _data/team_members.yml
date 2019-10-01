@@ -1,0 +1,69 @@
+- name: Raul D. Rossignoli
+  photo:
+  info: Professor
+  email: rossigno@fisica.unlp.edu.ar
+  number_educ: 2
+  education1: Physics Department and Faculty of Engineering, University of La Plata
+  education2: Permanent Researcher CICPBA (Buenos Aires Scientific Research Comission)
+
+-  name: Norma B. Canosa
+   photo: canosa.jpg
+   info: Professor
+   email: canosa@fisica.unlp.edu.ar
+   number_educ: 2
+   education1: Physics Department, University of La Plata
+   education2: Permanent Researcher CONICET (National Scientific Research Comission)
+
+-  name: Juan Mauricio Matera
+   photo: matera.jpg
+   info: Permanent Researcher CONICET
+   email: matera@fisica.unlp.edu.ar
+   number_educ: 1
+   education1: <a href='http://mauricio-matera.blogspot.com'>homepage</a>
+
+-  name: Lorena Rebón
+   photo: rebon.jpg
+   info: Permanent Researcher CONICET
+   email: rebon@fisica.unlp.edu.ar
+
+-  name: Nicolás Gigena
+   photo: gigena.jpg
+   info: PostDoc Researcher, CONICET Fellow
+   email: gigena.nicolas@gmail.com
+
+-  name: Alan P. Boette
+   photo: boette.jpg
+   info: PosDoc Researcher, CONICET Fellow
+   email: alanboette@gmail.com
+
+-  name: Marco Cerezo de la Roca
+   photo: cerezo.jpg
+   info: PosDoc Researcher
+   email: marcovsebastian@gmail.com
+   number_educ: 1
+   education1: <a href='http://entangledphysics.com'>entangledphysics</a>
+
+-  name: Marco Di Tullio
+   photo: tullio.jpg
+   info: Ph,D, Student, CONICET Fellow
+   email: marcoditullio@gmail.com
+
+-  name: Isis Bartolomé
+   photo: bartolome.jpg
+   info: Ph,D, Student, CONICET Fellow
+   email: isisbart@gmail.com
+
+-  name: Nahuel Diaz
+   photo: diaz.jpg
+   info: Ph,D, Student, CONICET Fellow
+   email: n2aleibniz@gmail.com
+
+- name: "This could be you !"
+  photo: mechanic.jpg
+  info: See <a href="http://www.qilp.org/vacancies">openings</a> for more info
+  email: rossigno@fisica.unlp.edu.ar
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:

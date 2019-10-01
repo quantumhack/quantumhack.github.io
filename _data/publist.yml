@@ -1,0 +1,139 @@
+- title:       Conditional states and entropy in qudit-qubit systems
+  image:       STS_news.png
+  description: .
+  authors:     M. Bilkis, N. Canosa, R.Rossignoli, N. Gigena
+  link:
+   url:        https://doi.org/10.1103/PhysRevA.99.062119
+   display:    Physical Review A  99, 062119 (2019).
+  highlight:   1
+  news2:
+
+- title:       Parallel-in-time optical simulation of history states
+  image:       STS_news.png
+  description: .
+  authors:     D. Pabón, L. Rebón,S. Bordakevich, N. Gigena, A. Boette, C. Iemmi, R. Rossignoli,S. Ledesma
+  link:
+   url:        https://doi.org/10.1103/PhysRevA.99.062333
+   display:    Physical Review A  99, 062333 (2019).
+  highlight:   1
+  news2:
+
+
+- title:       History state formalism for Dirac's theory
+  image:
+  description: .
+  authors:     N. Diaz, R.Rossignoli
+  link:
+    url:       https://doi.org/10.1103/PhysRevD.99.045008
+    display:   Physical Review D  99, 0454008 (2019).
+  highlight:   1
+  news2:
+
+
+- title:       Inducing critical phenomena in spin chains through sparse alternating fields
+  image:
+  description: .
+  authors:     M. Cerezo, R.Rossignoli, N. Canosa, C.A. Lamas,
+  link:
+    url:       https://doi.org/10.1103/PhysRevB.99.014409
+    display:   Physical Review B  99, 014409 (2019).
+  highlight:   1
+  news2:
+
+
+
+- title:       History states of systems and operators
+  image:       Pub_nemat1.png
+  description: We
+  authors:     A. Boette, R. Rossignoli
+  link:
+    url:       https://doi.org/10.1103/PhysRevA.98.032108
+    display:   Physical Review A  98, 032108 (2018).
+  highlight:   1
+  news2:
+
+
+
+- title:       Fermionic entanglement in superconducting systems
+  image:       Pub_nemat1.png
+  description: We
+  authors:     M. Di Tullio, N. Gigena, R. Rossignoli
+  link:
+    url:       https://doi.org/10.1103/PhysRevA.97.062109
+    display:   Physical Review A  97, 062109 (2018).
+  highlight:   1
+  news2:
+
+
+- title:       Of Local Operations and Physical Wires
+  image:       Pub_nemat1.png
+  description: .
+  authors:     D Egloff, J.M. Matera, T. Theurer,  M.B. Plenio
+  link:
+    url:       https://doi.org/10.1103/PhysRevX.8.031005
+    display:   Physical Review X 8, 031005 (2018).
+  highlight:   1
+  news2:
+
+
+- title:       Complexity of a matter-field Hamiltonian in the vicinity of a quantum instability
+  image:       Pub_nemat1.png
+  description:
+  authors:     A.M. Kowalski, A. Plastino, R. Rossignoli
+  link:
+    url:       https://doi.org/10.1016/j.physa.2018.08.159
+    display:   Physica A 513, 767 (2019).
+  highlight:   0
+  news2:
+
+- title:       Nonlinear dynamics of a semiquantum Hamiltonian in the vicinity of quantum unstable regimes
+  image:       Pub_nemat1.png
+  description:
+  authors:     A.M. Kowalski, R. Rossignoli
+  link:
+    url:       https://doi.org/10.1016/j.chaos.2018.02.026
+    display:   Chaos, Solitons and Fractals 109,  140 (2018).
+  highlight:   0
+  news2:
+
+
+- title:       Spectrum and normal modes of non-Hermitian quadratic boson operators
+  image:       Pub_nemat1.png
+  description: .
+  authors:     Javier Garcia, R. Rossignoli
+  link:
+    url:       https://doi.org/10.1103/PhysRevA.96.062130
+    display:   Physical Review A 96, 062130 (2017).
+  highlight:   1
+  news2:
+
+- title:       Factorization and criticality in finite XXZ systems of arbitrary spin
+  image:       Pub_nemat1.png
+  description: .
+  authors:     M. Cerezo, R. Rossignoli, N. Canosa, E. Ríos
+  link:
+    url:       https://doi.org/10.1103/PhysRevLett.119.220605
+    display:   Physical Review Letters 119 220605 (2017).
+  highlight:   1
+  news2:
+
+- title:       Determination of any pure spatial qudits from a minimum number of measurements by phase-stepping interferometry
+  image:       Pub_nemat1.png
+  description: .
+  authors:     A. Pears Stefano, L. Rebón, S. Ledesma, C. Iemmi
+  link:
+    url:       https://doi.org/10.1103/PhysRevA.96.062328
+    display:   Physical Review A 96, 062328 (2017).
+  highlight:   1
+  news2:
+
+
+- title:       Quantum Discord and Entropic Measures of Quantum Correlations":" Optimization and Behavior in Finite XY Spin Chains
+  image:       Pub_nemat1.png
+  description: .
+  authors:     N. Canosa, M. Cerezo, N. Gigena, R. Rossignoli
+  link:
+    url:       https://doi.org/10.1007/978-3-319-53412-1_20
+    display:   Lectures on General Quantum Correlations and their Applications, p. 455, Springer (2017).
+  highlight:   0
+  news2:

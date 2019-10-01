@@ -2,9 +2,7 @@
 layout: default
 img: lasertargeting.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Collaboration with the Quantum Optics Lab
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+We consider it crucial to corroborate theoretical results through experiments, so we maintain a fluid collaboration with the quantum optics laboratory of the University of Buenos Aires [LPI: Laboratorio de Procesado de Imágenes](http://www.lpi.df.uba.ar/).

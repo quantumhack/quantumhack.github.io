@@ -2,7 +2,7 @@
 layout: default
 img: intro-bg.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Quantum Information Theory
 description: |
 ---
-  A special thanks somebody to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  We investigate, through the perspective of quantum information, a wide variety of physical systems: spin chains and arrays, Boson and Fermion systems, Gaussian states and even the concept of time in quantum mechanics. A common aspect is that the main characteristics of the different systems emerge from entanglement and quantum correlations (Quantum Discord, Generalized entropic measures).

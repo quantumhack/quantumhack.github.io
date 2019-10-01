@@ -1,0 +1,29 @@
+- title: "Esto no existe"
+  image:
+  description: Conseguimos nada.
+  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display:  Nature 571, 541 (2019)
+  highlight: 1
+  news2:
+
+- title: Conditional states and entropy in qudit-qubit systems
+  image: STS_news.png
+  description: .
+  authors: M. Bilkis, N. Canosa, R.Rossignoli, N. Gigena
+  link:
+   url: https://doi.org/10.1103/PhysRevA.99.062119
+   display: Physical Review A  99, 062119 (2019).
+  highlight: 1
+  news2:
+
+- title: Parallel-in-time optical simulation of history states
+  image: STS_news.png
+  description: .
+  authors: D. Pabón, L. Rebón,S. Bordakevich, N. Gigena, A. Boette, C. Iemmi, R. Rossignoli,S. Ledesma
+  link:
+   url: https://doi.org/10.1103/PhysRevA.99.062333
+   display: Physical Review A  99, 062333 (2019).
+  highlight: 1
+  news2:
