@@ -264,48 +264,48 @@
   highlight:    0
   news2:
 
-# 
-# - title:        Generalized mean-field description of entanglement in dimerized spin systems
-#   image:        Pub_nemat1.png
-#   description:  .
-#   authors:      A. Boette, R. Rossignoli, N. Canosa, J.M. Matera
-#   link:
-#     url:        https://doi.org/10.1103/PhysRevB.91.064428
-#     display:    Physical Review B 91 064428 (2015).
-#   highlight:    1
-#   news2:
-#
-#
-#
-# - title:        Dimerized ground states in spin-S frustrated systems
-#   image:        Pub_nemat1.png
-#   description:  .
-#   authors:      C.A. Lamas, J.M. Matera
-#   link:
-#     url:        https://doi.org/10.1103/PhysRevB.92.115111
-#     display:    Physical Review B 92  115111 (2015).
-#   highlight:    0
-#   news2:
-#
-# - title:        Quantum discord and information deficit in spin chains
-#   image:        Pub_nemat1.png
-#   description:  .
-#   authors:      N. Canosa, L. Ciliberti, R. Rossignoli
-#   link:
-#     url:        https://doi.org/10.3390/e17041634
-#     display:    Entropy 17 1634 (2015).
-#   highlight:    0
-#   news2:
-#
-# - title:        Correlaciones cuánticas y campos factorizantes en sistemas de espines (Quantum correlations and factorizing fields in spin systems)
-#   image:        Pub_nemat1.png
-#   description:  .
-#   authors:      Marco Cerezo de la Roca
-#   link:
-#     url:
-#     display:    Graduate Thesis, UNLP (2015). Adv.":" R. Rossignoli
-#   highlight:    0
-#   news2:
+
+- title:        Generalized mean-field description of entanglement in dimerized spin systems
+  image:        Pub_nemat1.png
+  description:  .
+  authors:      A. Boette, R. Rossignoli, N. Canosa, J.M. Matera
+  link:
+    url:        https://doi.org/10.1103/PhysRevB.91.064428
+    display:    Physical Review B 91 064428 (2015).
+  highlight:    1
+  news2:
+
+
+
+- title:        Dimerized ground states in spin-S frustrated systems
+  image:        Pub_nemat1.png
+  description:  .
+  authors:      C.A. Lamas, J.M. Matera
+  link:
+    url:        https://doi.org/10.1103/PhysRevB.92.115111
+    display:    Physical Review B 92  115111 (2015).
+  highlight:    0
+  news2:
+
+- title:        Quantum discord and information deficit in spin chains
+  image:        Pub_nemat1.png
+  description:  .
+  authors:      N. Canosa, L. Ciliberti, R. Rossignoli
+  link:
+    url:        https://doi.org/10.3390/e17041634
+    display:    Entropy 17 1634 (2015).
+  highlight:    0
+  news2:
+
+- title:        Correlaciones cuánticas y campos factorizantes en sistemas de espines (Quantum correlations and factorizing fields in spin systems)
+  image:        Pub_nemat1.png
+  description:  .
+  authors:      Marco Cerezo de la Roca
+  link:
+    url:
+    display:    Graduate Thesis, UNLP (2015). Adv. R. Rossignoli
+  highlight:    0
+  news2:
 #
 # - title:        Medidas entrópicas generalizadas de correlaciones cuánticas (Generalized entropic measures of quantum correlations)
 #   image:        Pub_nemat1.png
