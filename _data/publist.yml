@@ -54,7 +54,7 @@
 - title:        Fermionic entanglement in the Lipkin model
   image:        Pub_nemat1.png
   description:  We
-  authors:      M. Di Tullio,  R. Rossignoli, M. Cerezo, R. Rossignoli
+  authors:      M. Di Tullio,  R. Rossignoli, M. Cerezo, N. Gigena
   link:
     url:        https://doi.org/10.1103/PhysRevA.100.062104
     display:    Physical Review A  100, 062104 (2019).
@@ -68,7 +68,7 @@
   link:
     url:        https://doi.org/10.1103/PhysRevA.97.062109
     display:    Physical Review A  97, 062109 (2018).
-  highlight:    1
+  highlight:    0
   news2:
 
 
