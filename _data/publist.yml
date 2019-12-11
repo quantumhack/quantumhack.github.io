@@ -51,7 +51,15 @@
   highlight:    1
   news2:
 
-
+- title:        Fermionic entanglement in the Lipkin model
+  image:        Pub_nemat1.png
+  description:  We
+  authors:      M. Di Tullio,  R. Rossignoli, M. Cerezo, R. Rossignoli
+  link:
+    url:        https://doi.org/10.1103/PhysRevA.100.062104
+    display:    Physical Review A  100, 062104 (2019).
+  highlight:    1
+  news2:
 
 - title:        Fermionic entanglement in superconducting systems
   image:        Pub_nemat1.png
@@ -345,6 +353,16 @@
   link:
     url:      https://doi.org/10.1103/PhysRevA.89.042312
     display:  Physical Review A 89 042312 (2014).
+  highlight: 0
+  news2:
+
+- title:     Phase diagram study of a dimerized spin-S zig-zag ladder
+  image:     Pub_nemat1.png
+  description: .
+  authors:   J M Matera and C A Lamas
+  link:
+    url:       https://doi.org/10.1088/0953-8984/26/32/326004
+    display:   Journal of Physics :Condensed Matter 26 326004 (2014).
   highlight: 0
   news2:
 
