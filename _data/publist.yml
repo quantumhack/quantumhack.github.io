@@ -1,338 +1,338 @@
-- title:        Conditional states and entropy in qudit-qubit systems
-  image:        STS_news.png
-  description:  .
-  authors:      M. Bilkis, N. Canosa, R.Rossignoli, N. Gigena
+- title:       Conditional states and entropy in qudit-qubit systems
+  image:       STS_news.png
+  description: .
+  authors:     M. Bilkis, N. Canosa, R.Rossignoli, N. Gigena
   link:
-   url:         https://doi.org/10.1103/PhysRevA.99.062119
-   display:     Physical Review A  99, 062119 (2019).
-  highlight:    1
+   url:        https://doi.org/10.1103/PhysRevA.99.062119
+   display:    Physical Review A  99, 062119 (2019).
+  highlight:   1
   news2:
 
-- title:        Parallel-in-time optical simulation of history states
-  image:        STS_news.png
-  description:  .
-  authors:      D. Pabón, L. Rebón,S. Bordakevich, N. Gigena, A. Boette, C. Iemmi, R. Rossignoli,S. Ledesma
+- title:       Parallel-in-time optical simulation of history states
+  image:       STS_news.png
+  description: .
+  authors:     D. Pabón, L. Rebón,S. Bordakevich, N. Gigena, A. Boette, C. Iemmi, R. Rossignoli,S. Ledesma
   link:
-   url:         https://doi.org/10.1103/PhysRevA.99.062333
-   display:     Physical Review A  99, 062333 (2019).
-  highlight:    1
+   url:        https://doi.org/10.1103/PhysRevA.99.062333
+   display:    Physical Review A  99, 062333 (2019).
+  highlight:   1
   news2:
 
-- title:        History state formalism for Dirac's theory
+- title:       History state formalism for Dirac's theory
   image:
-  description:  .
-  authors:      N. Diaz, R.Rossignoli
+  description: .
+  authors:     N. Diaz, R.Rossignoli
   link:
-    url:        https://doi.org/10.1103/PhysRevD.99.045008
-    display:    Physical Review D  99, 0454008 (2019).
-  highlight:    1
+    url:       https://doi.org/10.1103/PhysRevD.99.045008
+    display:   Physical Review D  99, 0454008 (2019).
+  highlight:   1
   news2:
 
 
-- title:        Inducing critical phenomena in spin chains through sparse alternating fields
+- title:       Inducing critical phenomena in spin chains through sparse alternating fields
   image:
-  description:  .
-  authors:      M. Cerezo, R.Rossignoli, N. Canosa, C.A. Lamas,
+  description: .
+  authors:     M. Cerezo, R.Rossignoli, N. Canosa, C.A. Lamas,
   link:
-    url:        https://doi.org/10.1103/PhysRevB.99.014409
-    display:    Physical Review B  99, 014409 (2019).
-  highlight:    1
+    url:       https://doi.org/10.1103/PhysRevB.99.014409
+    display:   Physical Review B  99, 014409 (2019).
+  highlight:   1
   news2:
 
 
 
-- title:        History states of systems and operators
-  image:        Pub_nemat1.png
-  description:  We
-  authors:      A. Boette, R. Rossignoli
+- title:       History states of systems and operators
+  image:       Pub_nemat1.png
+  description: We
+  authors:     A. Boette, R. Rossignoli
   link:
-    url:        https://doi.org/10.1103/PhysRevA.98.032108
-    display:    Physical Review A  98, 032108 (2018).
-  highlight:    1
+    url:       https://doi.org/10.1103/PhysRevA.98.032108
+    display:   Physical Review A  98, 032108 (2018).
+  highlight:   1
   news2:
 
-- title:        Fermionic entanglement in the Lipkin model
-  image:        Pub_nemat1.png
-  description:  We
-  authors:      M. Di Tullio,  R. Rossignoli, M. Cerezo, N. Gigena
+- title:       Fermionic entanglement in the Lipkin model
+  image:       Pub_nemat1.png
+  description: We
+  authors:     M. Di Tullio,  R. Rossignoli, M. Cerezo, N. Gigena
   link:
-    url:        https://doi.org/10.1103/PhysRevA.100.062104
-    display:    Physical Review A  100, 062104 (2019).
-  highlight:    1
+    url:       https://doi.org/10.1103/PhysRevA.100.062104
+    display:   Physical Review A  100, 062104 (2019).
+  highlight:   1
   news2:
 
-- title:        Fermionic entanglement in superconducting systems
-  image:        Pub_nemat1.png
-  description:  We
-  authors:      M. Di Tullio, N. Gigena, R. Rossignoli
+- title:       Fermionic entanglement in superconducting systems
+  image:       Pub_nemat1.png
+  description: We
+  authors:     M. Di Tullio, N. Gigena, R. Rossignoli
   link:
-    url:        https://doi.org/10.1103/PhysRevA.97.062109
-    display:    Physical Review A  97, 062109 (2018).
-  highlight:    0
-  news2:
-
-
-- title:        Of Local Operations and Physical Wires
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      D Egloff, J.M. Matera, T. Theurer,  M.B. Plenio
-  link:
-    url:        https://doi.org/10.1103/PhysRevX.8.031005
-    display:    Physical Review X 8, 031005 (2018).
-  highlight:    1
+    url:       https://doi.org/10.1103/PhysRevA.97.062109
+    display:   Physical Review A  97, 062109 (2018).
+  highlight:   0
   news2:
 
 
-- title:        Complexity of a matter-field Hamiltonian in the vicinity of a quantum instability
-  image:        Pub_nemat1.png
+- title:       Of Local Operations and Physical Wires
+  image:       Pub_nemat1.png
+  description: .
+  authors:     D Egloff, J.M. Matera, T. Theurer,  M.B. Plenio
+  link:
+    url:       https://doi.org/10.1103/PhysRevX.8.031005
+    display:   Physical Review X 8, 031005 (2018).
+  highlight:   1
+  news2:
+
+
+- title:       Complexity of a matter-field Hamiltonian in the vicinity of a quantum instability
+  image:       Pub_nemat1.png
   description:
-  authors:      A.M. Kowalski, A. Plastino, R. Rossignoli
+  authors:     A.M. Kowalski, A. Plastino, R. Rossignoli
   link:
-    url:        https://doi.org/10.1016/j.physa.2018.08.159
-    display:    Physica A 513, 767 (2019).
-  highlight:    0
+    url:       https://doi.org/10.1016/j.physa.2018.08.159
+    display:   Physica A 513, 767 (2019).
+  highlight:   0
   news2:
 
-- title:        Nonlinear dynamics of a semiquantum Hamiltonian in the vicinity of quantum unstable regimes
-  image:        Pub_nemat1.png
+- title:       Nonlinear dynamics of a semiquantum Hamiltonian in the vicinity of quantum unstable regimes
+  image:       Pub_nemat1.png
   description:
-  authors:      A.M. Kowalski, R. Rossignoli
+  authors:     A.M. Kowalski, R. Rossignoli
   link:
-    url:        https://doi.org/10.1016/j.chaos.2018.02.026
-    display:    Chaos, Solitons and Fractals 109,  140 (2018).
-  highlight:    0
+    url:       https://doi.org/10.1016/j.chaos.2018.02.026
+    display:   Chaos, Solitons and Fractals 109,  140 (2018).
+  highlight:   0
   news2:
 
 
-- title:        Spectrum and normal modes of non-Hermitian quadratic boson operators
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      Javier Garcia, R. Rossignoli
+- title:       Spectrum and normal modes of non-Hermitian quadratic boson operators
+  image:       Pub_nemat1.png
+  description: .
+  authors:     Javier Garcia, R. Rossignoli
   link:
-    url:        https://doi.org/10.1103/PhysRevA.96.062130
-    display:    Physical Review A 96, 062130 (2017).
-  highlight:    0
+    url:       https://doi.org/10.1103/PhysRevA.96.062130
+    display:   Physical Review A 96, 062130 (2017).
+  highlight:   0
   news2:
 
-- title:        Factorization and criticality in finite XXZ systems of arbitrary spin
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      M. Cerezo, R. Rossignoli, N. Canosa, E. Ríos
+- title:       Factorization and criticality in finite XXZ systems of arbitrary spin
+  image:       Pub_nemat1.png
+  description: .
+  authors:     M. Cerezo, R. Rossignoli, N. Canosa, E. Ríos
   link:
-    url:        https://doi.org/10.1103/PhysRevLett.119.220605
-    display:    Physical Review Letters 119 220605 (2017).
-  highlight:    1
+    url:       https://doi.org/10.1103/PhysRevLett.119.220605
+    display:   Physical Review Letters 119 220605 (2017).
+  highlight:   1
   news2:
 
-- title:        Determination of any pure spatial qudits from a minimum number of measurements by phase-stepping interferometry
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      A. Pears Stefano, L. Rebón, S. Ledesma, C. Iemmi
+- title:       Determination of any pure spatial qudits from a minimum number of measurements by phase-stepping interferometry
+  image:       Pub_nemat1.png
+  description: .
+  authors:     A. Pears Stefano, L. Rebón, S. Ledesma, C. Iemmi
   link:
-    url:        https://doi.org/10.1103/PhysRevA.96.062328
-    display:    Physical Review A 96, 062328 (2017).
-  highlight:    0
-  news2:
-
-
-- title:        Quantum Discord and Entropic Measures of Quantum Correlations":" Optimization and Behavior in Finite XY Spin Chains
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      N. Canosa, M. Cerezo, N. Gigena, R. Rossignoli
-  link:
-    url:        https://doi.org/10.1007/978-3-319-53412-1_20
-    display:    Lectures on General Quantum Correlations and their Applications, p. 455, Springer (2017).
-  highlight:    0
-  news2:
-
-- title:        Bipartite entanglement in fermion systems
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      N. Gigena, R. Rossignoli
-  link:
-    url:        https://doi.org/10.1103/PhysRevA.95.062320
-    display:    Physical Review A 95 062320 (2017).
-  highlight:    0
+    url:       https://doi.org/10.1103/PhysRevA.96.062328
+    display:   Physical Review A 96, 062328 (2017).
+  highlight:   0
   news2:
 
 
-- title:        Entanglement and coherence in a spin-s XXZ system under non-uniform fields
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      E. Ríos,  R. Rossignoli, N. Canosa
+- title:       Quantum Discord and Entropic Measures of Quantum Correlations":" Optimization and Behavior in Finite XY Spin Chains
+  image:       Pub_nemat1.png
+  description: .
+  authors:     N. Canosa, M. Cerezo, N. Gigena, R. Rossignoli
   link:
-    url:        https://doi.org/10.1088/1361-6455/aa66c3
-    display:    Journal of Physics B  50 095501 (2017).
-  highlight:    0
+    url:       https://doi.org/10.1007/978-3-319-53412-1_20
+    display:   Lectures on General Quantum Correlations and their Applications, p. 455, Springer (2017).
+  highlight:   0
+  news2:
+
+- title:       Bipartite entanglement in fermion systems
+  image:       Pub_nemat1.png
+  description: .
+  authors:     N. Gigena, R. Rossignoli
+  link:
+    url:       https://doi.org/10.1103/PhysRevA.95.062320
+    display:   Physical Review A 95 062320 (2017).
+  highlight:   0
   news2:
 
 
-
-- title:        Pair entanglement in dimerized spin-s chains
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      A. Boette,  R. Rossignoli, N. Canosa, J.M. Matera
+- title:       Entanglement and coherence in a spin-s XXZ system under non-uniform fields
+  image:       Pub_nemat1.png
+  description: .
+  authors:     E. Ríos,  R. Rossignoli, N. Canosa
   link:
-    url:        https://doi.org/10.1103/PhysRevB.94.214403
-    display:    Physical Review B 94 214403 (2016).
-  highlight:    0
+    url:       https://doi.org/10.1088/1361-6455/aa66c3
+    display:   Journal of Physics B  50 095501 (2017).
+  highlight:   0
   news2:
 
 
 
-- title:        Factorization in spin systems under general fields and separable ground-state engineering
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      M. Cerezo,  R. Rossignoli, N. Canosa
+- title:       Pair entanglement in dimerized spin-s chains
+  image:       Pub_nemat1.png
+  description: .
+  authors:     A. Boette,  R. Rossignoli, N. Canosa, J.M. Matera
   link:
-    url:        https://doi.org/10.1103/PhysRevA.94.042335
-    display:    Physical Review A 94 042335 (2016).
-  highlight:    0
+    url:       https://doi.org/10.1103/PhysRevB.94.214403
+    display:   Physical Review B 94 214403 (2016).
+  highlight:   0
   news2:
 
 
 
-- title:        One-body information loss in fermion systems
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      N. Gigena, R. Rossignoli
+- title:       Factorization in spin systems under general fields and separable ground-state engineering
+  image:       Pub_nemat1.png
+  description: .
+  authors:     M. Cerezo,  R. Rossignoli, N. Canosa
   link:
-    url:        https://doi.org/10.1103/PhysRevA.94.042315
-    display:    Physical Review A 94 042315 (2016).
-  highlight:    0
+    url:       https://doi.org/10.1103/PhysRevA.94.042335
+    display:   Physical Review A 94 042335 (2016).
+  highlight:   0
   news2:
 
 
 
-- title:        Conditional purity and quantum correlation  measures in two qubit mixed states
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      L. Rebon, R. Rossignoli, J.J.M. Varga, N. Gigena, N. Canosa, C. Iemmi, S. Ledesma
+- title:       One-body information loss in fermion systems
+  image:       Pub_nemat1.png
+  description: .
+  authors:     N. Gigena, R. Rossignoli
   link:
-    url:        https://doi.org/10.1088/0953-4075/49/21/215501
-    display:    Journal of Physics B  49 215501 (2016).
-  highlight:    0
+    url:       https://doi.org/10.1103/PhysRevA.94.042315
+    display:   Physical Review A 94 042315 (2016).
+  highlight:   0
+  news2:
+
+
+
+- title:       Conditional purity and quantum correlation  measures in two qubit mixed states
+  image:       Pub_nemat1.png
+  description: .
+  authors:     L. Rebon, R. Rossignoli, J.J.M. Varga, N. Gigena, N. Canosa, C. Iemmi, S. Ledesma
+  link:
+    url:       https://doi.org/10.1088/0953-4075/49/21/215501
+    display:   Journal of Physics B  49 215501 (2016).
+  highlight:   0
   news2:
 
 
 
 
-- title:        Coherent control of quantum systems as a resource theory
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      J. M. Matera, D. Egloff, N. Killoran, M. B. Plenio
+- title:       Coherent control of quantum systems as a resource theory
+  image:       Pub_nemat1.png
+  description: .
+  authors:     J. M. Matera, D. Egloff, N. Killoran, M. B. Plenio
   link:
     url:
-    display:    Quantum Science and Technology 1, 01LT01 (2016).
-  highlight:    0
+    display:   Quantum Science and Technology 1, 01LT01 (2016).
+  highlight:   0
   news2:
 
 
-- title:        System-time entanglement in a discrete time model
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      A. Boette, R. Rossignoli, N. Gigena, M. Cerezo
+- title:       System-time entanglement in a discrete time model
+  image:       Pub_nemat1.png
+  description: .
+  authors:     A. Boette, R. Rossignoli, N. Gigena, M. Cerezo
   link:
-    url:        https://doi.org/10.1103/PhysRevA.93.062127
-    display:    Physical Review A 93, 062127 (2016).
-  highlight:    0
-  news2:
-
-
-
-- title:        Nontransverse factorizing fields and entanglement in finite spin systems
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      M. Cerezo, R. Rossignoli, N. Canosa
-  link:
-    url:        https://doi.org/10.1103/PhysRevB.92.224422
-    display:    Physical Review B 92, 224422 (2015).
-  highlight:    0
+    url:       https://doi.org/10.1103/PhysRevA.93.062127
+    display:   Physical Review A 93, 062127 (2016).
+  highlight:   0
   news2:
 
 
 
-- title:        Entanglement in fermion systems
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      N. Gigena, R. Rossignoli
+- title:       Nontransverse factorizing fields and entanglement in finite spin systems
+  image:       Pub_nemat1.png
+  description: .
+  authors:     M. Cerezo, R. Rossignoli, N. Canosa
   link:
-    url:        https://doi.org/10.1103/PhysRevA.92.042326
-    display:    Physical Review A 92 042326 (2015).
-  highlight:    0
-  news2:
-
-- title:        Exact dynamics and squeezing in two harmonic modes coupled through angular momentum
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      N. Canosa, S. Mandal, R. Rossignoli
-  link:
-    url:        https://doi.org/10.1088/0953-4075/48/16/165501
-    display:    Journal of Physics B 48 165501 (2015).
-  highlight:    0
-  news2:
-
-
-- title:        Generalized mean-field description of entanglement in dimerized spin systems
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      A. Boette, R. Rossignoli, N. Canosa, J.M. Matera
-  link:
-    url:        https://doi.org/10.1103/PhysRevB.91.064428
-    display:    Physical Review B 91 064428 (2015).
-  highlight:    0
+    url:       https://doi.org/10.1103/PhysRevB.92.224422
+    display:   Physical Review B 92, 224422 (2015).
+  highlight:   0
   news2:
 
 
 
-- title:        Dimerized ground states in spin-S frustrated systems
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      C.A. Lamas, J.M. Matera
+- title:       Entanglement in fermion systems
+  image:       Pub_nemat1.png
+  description: .
+  authors:     N. Gigena, R. Rossignoli
   link:
-    url:        https://doi.org/10.1103/PhysRevB.92.115111
-    display:    Physical Review B 92  115111 (2015).
-  highlight:    0
+    url:       https://doi.org/10.1103/PhysRevA.92.042326
+    display:   Physical Review A 92 042326 (2015).
+  highlight:   0
   news2:
 
-- title:        Quantum discord and information deficit in spin chains
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      N. Canosa, L. Ciliberti, R. Rossignoli
+- title:       Exact dynamics and squeezing in two harmonic modes coupled through angular momentum
+  image:       Pub_nemat1.png
+  description: .
+  authors:     N. Canosa, S. Mandal, R. Rossignoli
   link:
-    url:        https://doi.org/10.3390/e17041634
-    display:    Entropy 17 1634 (2015).
-  highlight:    0
+    url:       https://doi.org/10.1088/0953-4075/48/16/165501
+    display:   Journal of Physics B 48 165501 (2015).
+  highlight:   0
   news2:
 
-- title:        Correlaciones cuánticas y campos factorizantes en sistemas de espines (Quantum correlations and factorizing fields in spin systems)
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      Marco Cerezo de la Roca. Adv. :R. Rossignoli
+
+- title:       Generalized mean-field description of entanglement in dimerized spin systems
+  image:       Pub_nemat1.png
+  description: .
+  authors:     A. Boette, R. Rossignoli, N. Canosa, J.M. Matera
   link:
-    url:        http://sedici.unlp.edu.ar/handle/10915/71607
-    display:    Graduate Thesis, UNLP (2015)
-  highlight:    0
+    url:       https://doi.org/10.1103/PhysRevB.91.064428
+    display:   Physical Review B 91 064428 (2015).
+  highlight:   0
   news2:
 
-- title:        Medidas entrópicas generalizadas de correlaciones cuánticas (Generalized entropic measures of quantum correlations)
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      Leonardo Ciliberti. Adv. :R. Rossignoli and N. Canosa
+
+
+- title:       Dimerized ground states in spin-S frustrated systems
+  image:       Pub_nemat1.png
+  description: .
+  authors:     C.A. Lamas, J.M. Matera
   link:
-    url:        http://sedici.unlp.edu.ar/handle/10915/49436
-    display:    Ph.D. Thesis, UNLP (2015).
-  highlight:    0
+    url:       https://doi.org/10.1103/PhysRevB.92.115111
+    display:   Physical Review B 92  115111 (2015).
+  highlight:   0
+  news2:
+
+- title:       Quantum discord and information deficit in spin chains
+  image:       Pub_nemat1.png
+  description: .
+  authors:     N. Canosa, L. Ciliberti, R. Rossignoli
+  link:
+    url:       https://doi.org/10.3390/e17041634
+    display:   Entropy 17 1634 (2015).
+  highlight:   0
+  news2:
+
+- title:       Correlaciones cuánticas y campos factorizantes en sistemas de espines (Quantum correlations and factorizing fields in spin systems)
+  image:       Pub_nemat1.png
+  description: .
+  authors:     Marco Cerezo de la Roca. Adv. :R. Rossignoli
+  link:
+    url:       http://sedici.unlp.edu.ar/handle/10915/71607
+    display:   Graduate Thesis, UNLP (2015)
+  highlight:   0
+  news2:
+
+- title:       Medidas entrópicas generalizadas de correlaciones cuánticas (Generalized entropic measures of quantum correlations)
+  image:       Pub_nemat1.png
+  description: .
+  authors:     Leonardo Ciliberti. Adv. :R. Rossignoli and N. Canosa
+  link:
+    url:       http://sedici.unlp.edu.ar/handle/10915/49436
+    display:   Ph.D. Thesis, UNLP (2015).
+  highlight:   0
   news2:
 
 - title:       Generalized conditional entropy optimization for qudit-qubit states
-  image:        Pub_nemat1.png
-  description:  .
-  authors:      N. Gigena, R. Rossignoli
+  image:       Pub_nemat1.png
+  description: .
+  authors:     N. Gigena, R. Rossignoli
   link:
-    url:        https://doi.org/10.1103/PhysRevA.90.042318
-    display:    Physical Review A 90 042318 (2014).
-  highlight:    0
+    url:       https://doi.org/10.1103/PhysRevA.90.042318
+    display:   Physical Review A 90 042318 (2014).
+  highlight:   0
   news2:
 
 - title:       Descripción de correlaciones cuánticas a partir de aproximaciones de campo medio generalizadas (Description of quantum correlations through generalized mean field treatments)
@@ -346,32 +346,269 @@
   news2:
 
 
-- title:     Dynamics of entanglement between two harmonic modes in stable and unstable regimes
-  image:     Pub_nemat1.png
+- title:       Dynamics of entanglement between two harmonic modes in stable and unstable regimes
+  image:       Pub_nemat1.png
   description: .
-  authors:   L. Rebon, N. Canosa, R. Rossignoli
+  authors:     L. Rebon, N. Canosa, R. Rossignoli
   link:
-    url:      https://doi.org/10.1103/PhysRevA.89.042312
-    display:  Physical Review A 89 042312 (2014).
-  highlight: 0
+    url:       https://doi.org/10.1103/PhysRevA.89.042312
+    display:   Physical Review A 89 042312 (2014).
+  highlight:   0
   news2:
 
-- title:     Phase diagram study of a dimerized spin-S zig-zag ladder
-  image:     Pub_nemat1.png
+- title:       Phase diagram study of a dimerized spin-S zig-zag ladder
+  image:       Pub_nemat1.png
   description: .
-  authors:   J M Matera and C A Lamas
+  authors:     J M Matera and C A Lamas
   link:
     url:       https://doi.org/10.1088/0953-8984/26/32/326004
     display:   Journal of Physics :Condensed Matter 26 326004 (2014).
-  highlight: 0
+  highlight:   0
   news2:
 
-- title:     Phase diagram study of a dimerized spin-S zig-zag ladder
-  image:     Pub_nemat1.png
+
+- title:       Generalized conditional entropy in bipartite quantum systems
+  image:       Pub_nemat1.png
   description: .
-  authors:   J M Matera and C A Lamas
+  authors:     N. Gigena, R. Rossignoli
   link:
-    url:       https://doi.org/10.1088/0953-8984/26/32/326004
-    display:   Journal of Physics :Condensed Matter 26 326004 (2014).
-  highlight: 0
+    url:       https://doi.org/10.1088/1751-8113/47/1/015302
+    display:   Journal of Physics A :Math.Theor. 47 (2014) 015302.
+  highlight:   0
   news2:
+
+
+- title:       Phase-Measurement Interferometry as a Simulation of Optimal Quantum-State Tomography
+  image:       Pub_nemat1.png
+  description: .
+  authors:     L. Rebón, C. Iemmi and S. Ledesma
+  link:
+    url:       http://dx.doi.org/10.1016/j.ijleo.2013.03.171
+    display:   Optik 124 (2013) 5548-5552.
+  highlight:   0
+  news2:
+
+- title:       Discord and information deficit in the XX chain
+  image:       Pub_nemat1.png
+  description: .
+  authors:     L. Ciliberti, N. Canosa, R. Rossignoli
+  link:
+    url:     https://doi.org/10.1103/PhysRevA.88.012119
+    display: Physical Review A 88 (2013)  012119.
+  highlight:   0
+  news2:
+
+
+
+- title:       Preparing arbitrary pure states of spatial qudits with a single phase-only spatial light modulator
+  image:       Pub_nemat1.png
+  description: .
+  authors:     A. Sola­s-Prosser, A. Arias, J. J. M. Varga, L. Rebón, S. Ledesma, C. Iemmi and L. Neves
+  link:
+    url:       https://iopscience.iop.org/article/10.1088/1742-6596/605/1/012035
+    display:   Optics Letters / Vol. 38, No. 22  (2013).
+  highlight:   0
+  news2:
+
+
+- title:       Quantum discord and related measures of quantum correlations in finite XY chains
+  image:       Pub_nemat1.png
+  description: .
+  authors:     N. Canosa, L. Ciliberti, R. Rossignoli
+  link:
+    url:     https://doi.org/10.1142/S0217979213450331
+    display: Int. J.  Mod. Phys. B 27 (2013)  1345033.
+  highlight:   0
+  news2:
+
+#
+# - title:     Concepts and Recent Advances in Generalized Information Measures and Statistics
+#   image:     Pub_nemat1.png
+#   description: .
+#   authors:   A. M. Kowalski, R. Rossignoli, E. M. F. Curado
+# Bentham eBooks ISBN: 978-1-60805-761-0 (2013).  url:https://10.2174/97816080576031130101
+# highlight:   0
+# news2:
+#
+#
+# - title:     Majorization and Generalized Entropies
+#   image:     Pub_nemat1.png
+#   description: .
+#   authors:   N. Canosa, R. Rossignoli,
+#   P. 100
+# in Concepts and Recent Advances in
+# Generalized Information Measures and Statistics
+# Bentham eBooks ISBN: 978-1-60805-761-0 (2013).
+# highlight:   0
+# news2:
+#
+#
+# - title:     Essentials of Information Entropy and Related Measures
+#   image:     Pub_nemat1.png
+#   description: .
+#   authors:   R. Rossignoli, A. M. Kowalski, E. M. F. Curado, P. 30
+# in Concepts and Recent Advances in
+# Generalized Information Measures and Statistics
+# Bentham eBooks ISBN: 978-1-60805-761-0 (2013).
+# highlight:   0
+# news2:
+#
+#
+# - title:     Heat and Entropy :A brief history
+#   image:     Pub_nemat1.png
+#   description: .
+#   authors:   E. M. F. Curado, A. M. Kowalski, R. Rossignoli, P. 3
+# in Concepts and Recent Advances in
+# Generalized Information Measures and Statistics
+# Bentham eBooks ISBN: 978-1-60805-761-0 (2013).
+# highlight:   0
+# news2:
+#
+#
+# - title:     Entanglement and area laws in weakly correlated gaussian states
+#   image:     Pub_nemat1.png
+#   description: .
+#   authors:   J. M. Matera, R. Rossignoli,  N. Canosa
+#
+#     Physical Review A 86 (2012) 062324.
+# url:https://doi.org/10.1103/PhysRevA.86.062324
+# highlight:   0
+# news2:
+#
+#
+#
+# - title:     Measurements, quantum discord and parity in spin 1 systems
+#   image:     Pub_nemat1.png
+#   description: .
+#   authors:   R. Rossignoli, J.M. Matera, N. Canosa  Physical Review A 86 (2012) 022104.
+# url:https://doi.org/10.1103/PhysRevA.86.022104
+# highlight:   0
+# news2:
+#
+#
+# - title:     Quantum Correlations and least disturbing local measurements,
+#   image:     Pub_nemat1.png
+#   description: .
+#   authors:   R. Rossignoli, N. Canosa, L. Ciliberti,  Physical Review A 84 (2011) 052329.
+# url:https://doi.org/10.1103/PhysRevA.84.042329
+# highlight:   0
+# news2:
+#
+#
+# - title:     Entanglement between two harmonic modes coupled by angular momentum
+#   image:     Pub_nemat1.png
+#   description: .
+#   authors:   L. Rebón, R. Rossignoli
+#    Physical Review A 85  (2011) 052320.
+# url:https://doi.org/10.1103/PhysRevA.85.052320
+# highlight:   0
+# news2:
+#
+#
+# - title:     Even-odd entanglement in boson and spin systems
+#   image:     Pub_nemat1.png
+#   description: .
+#   authors:   R. Rossignoli, N. Canosa, J.M. Matera,
+# Physical Review A 83 (2011) 042328.
+# url:https://doi.org/10.1103/PhysRevA.83.042328
+# highlight:   0
+# news2:
+
+#
+# Evaluation of entanglement measures in spin systems with the RPA,
+# N. Canosa, R. Rossignoli, J.M. Matera,
+# J. Rus. Laser Research 32 (2011) 332.
+# highlight:   0
+# news2:
+#
+#  Generalized measures of quantum correlations for mixed states,
+# L. Ciliberti, R. Rossignoli, N. Canosa,
+# J. Rus. Laser Research 32 (2011) 467.
+# highlight:   0
+# news2:
+#
+#
+#  Entrelazamiento Cuántico en Sistemas de Muchos Cuerpos
+# (Quantum Entanglement in Many-Body Systems)
+# J.M. Matera,
+# Ph.D. Thesis, UNLP (2011).
+# Adv.:        R. Rossignoli
+# highlight:   0
+# news2:
+#
+#
+# Generalized entropic measures of quantum correlations,
+# R. Rossignoli, N. Canosa, L. Ciliberti,
+# Physical Review A 82 (2010) 052342.
+# url:https://doi.org/10.1103/PhysRevA.82.052342
+# highlight:   0
+# news2:
+#
+#
+# Evaluation of ground-state entanglement in spin systems with the random phase approximation
+# ,
+# J.M. Matera, R. Rossignoli, N. Canosa,
+# Physical Review A 82 (2010) 052332.
+# url:https://doi.org/10.1103/PhysRevA.82.0452332
+# highlight:   0
+# news2:
+#
+#
+# Quantum discord in finite XY chains,
+# L. Ciliberti, R. Rossignoli, N. Canosa,
+# Physical Review A 82 (2010) 042316.
+# url:https://doi.org/10.1103/PhysRevA.82.042316
+# highlight:   0
+# news2:
+#
+#
+# Separability and entanglement in finite dimer-type chains in general transverse fields,
+# N. Canosa, R. Rossignoli, J.M. Matera,
+# Physical Review B 81 (2010) 0544215.
+# url:https://doi.org/10.1103/PhysRevB.81.054415
+# highlight:   0
+# news2:
+#
+#
+# Factorization and entanglement in general XYZ spin
+# arrays in nonuniform transverse fields,
+# R. Rossignoli, N. Canosa, J.M. Matera,
+# Physical Review A 80 (2009) 062325.
+# url:https://doi.org/10.1103/PhysRevA.80.062325
+# highlight:   0
+# news2:
+#
+#
+# Stability, complex modes, and nonseparability in rotating quadratic potentials,
+# R. Rossignoli, A.M. Kowalski,
+# Physical Review A 79 (2009) 062103.
+# url:https://doi.org/10.1103/PhysRevA.79.062103
+# highlight:   0
+# news2:
+#
+#
+# Evaluation of pairwise entanglement in translationally invariant systems with the random phase approximation
+# ,
+# J.M. Matera, R. Rossignoli, N. Canosa,
+# Physical Review A 78 (2008) 042319.
+# url:https://doi.org/10.1103/PhysRevA.78.042319
+# highlight:   0
+# news2:
+#
+#
+#
+# Thermal entanglement in fully connected spin systems and its random-phase-approximation description
+# ,
+# J.M. Matera, R. Rossignoli, N. Canosa,
+# Physical Review A 78 (2008) 012316.
+# url:https://doi.org/10.1103/PhysRevA.78.012316
+# highlight:   0
+# news2:
+#
+#
+# Entanglement of finite cyclic chains at factorizing fields
+# ,
+# R. Rossignoli, N. Canosa, J.M. Matera,
+# Physical Review A 77 (2008) 052322.
+# url:https://doi.org/10.1103/PhysRevA.77.052322
+#
