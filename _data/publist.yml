@@ -305,26 +305,6 @@
   highlight:   0
   news2:
 
-- title:       Correlaciones cuánticas y campos factorizantes en sistemas de espines (Quantum correlations and factorizing fields in spin systems)
-  image:       Pub_nemat1.png
-  description: .
-  authors:     Marco Cerezo de la Roca. Adv. :R. Rossignoli
-  link:
-    url:       http://sedici.unlp.edu.ar/handle/10915/71607
-    display:   Graduate Thesis, UNLP (2015)
-  highlight:   0
-  news2:
-
-- title:       Medidas entrópicas generalizadas de correlaciones cuánticas (Generalized entropic measures of quantum correlations)
-  image:       Pub_nemat1.png
-  description: .
-  authors:     Leonardo Ciliberti. Adv. :R. Rossignoli and N. Canosa
-  link:
-    url:       http://sedici.unlp.edu.ar/handle/10915/49436
-    display:   Ph.D. Thesis, UNLP (2015).
-  highlight:   0
-  news2:
-
 - title:       Generalized conditional entropy optimization for qudit-qubit states
   image:       Pub_nemat1.png
   description: .
@@ -334,17 +314,6 @@
     display:   Physical Review A 90 042318 (2014).
   highlight:   0
   news2:
-
-- title:       Descripción de correlaciones cuánticas a partir de aproximaciones de campo medio generalizadas (Description of quantum correlations through generalized mean field treatments)
-  image:       Pub_nemat1.png
-  description: .
-  authors:     A. Boette. Adv. :R. Rossignoli, CoAdv. :J.M. Matera
-  link:
-    url:
-    display:   Graduate Thesis, UNLP (2014).
-  highlight:   0
-  news2:
-
 
 - title:       Dynamics of entanglement between two harmonic modes in stable and unstable regimes
   image:       Pub_nemat1.png
