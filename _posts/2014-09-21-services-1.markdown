@@ -1,8 +1,8 @@
 ---
 layout: default
-img: intro-bg.jpg
+img: code.jpg
 category: Services
-title: Quantum Information Theory
+title: Quantum Hack.ML
 description: |
 ---
-  We investigate, through the perspective of quantum information, a wide variety of physical systems: spin chains and arrays, Boson and Fermion systems, Gaussian states and even the concept of time in quantum mechanics. A common aspect is that the main characteristics of the different systems emerge from entanglement and quantum correlations (Quantum Discord, Generalized entropic measures).
+  We are a group of people in a superposition state of several topics: quantum information - engineering - programming - hacking ... anything else

@@ -1,8 +1,8 @@
 ---
 layout: default
-img: lasertargeting.png
+img: clocklaptop.jpg
 category: Services
-title: Collaboration with the Quantum Optics Lab
+title: Quantum Machine Learning
 description: |
 ---
-We consider it crucial to corroborate theoretical results through experiments, so we maintain a fluid collaboration with the quantum optics laboratory of the University of Buenos Aires [LPI: Laboratorio de Procesado de Imágenes](http://www.lpi.df.uba.ar/).
+We consider it crucial to exploit machine learning resources to understand quantum systems and at the same time use quantum information theoretical results to improve machine learning algorithms.

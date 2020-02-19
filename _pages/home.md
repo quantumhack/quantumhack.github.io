@@ -1,8 +1,8 @@
 ---
-title: QILP
-subTitle: Quantum Information La Plata
+title: Quantum Hack.ML
+subTitle: Hacking Reality Learning Quantum Machines
 layout: tapa
-img: backplano.gif
+img: back1.gif
 excerpt: ""
 sitemap: false
 permalink: /
