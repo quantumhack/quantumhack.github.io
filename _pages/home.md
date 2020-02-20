@@ -1,5 +1,5 @@
 ---
-title: Quantum Hack.ML
+title: Quantum Hack Machine Learning
 subTitle: Hacking Reality Learning Quantum Machines
 layout: tapa
 img: back1.gif
