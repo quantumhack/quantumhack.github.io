@@ -5,4 +5,4 @@ category: Services
 title: Quantum Tools for Hacking Blockchains
 description: |
 ---
-  The emergence of blockchain technologies imply a change of paradigm in the way we store/share information. We are moving from a centralized global scheme to a decentralized structure. For this reason, many diverse technologies are moving towards a Blockchain structure. Some examples are: finances, politics, internet, energy and health. We believe that the development of quantum tools can be extremely useful for applications emerging from the current Blockchain structure and for the development of new safer structures.
+  The emergence of Blockchain technologies imply a change of paradigm in the way we store/share information. We are moving from a centralized global scheme to a decentralized structure. For this reason, many diverse technologies are moving towards a Blockchain structure. Some examples are: finances, politics, internet, energy and health. We believe that the development of quantum tools can be extremely useful for applications emerging from the current Blockchain structure and for the development of new safer structures.
