@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url:                http://quantumhack.ml
+url:                https://quantumhack.ml
 title:              Quantum Hack
 email:              mail@quantumhack.ml
 author:             Quantum Hack
@@ -44,7 +44,8 @@ kramdown:
   enable_coderay:   false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-#plugins:
+plugins:
+  - jekyll-sitemap
 #  - jekyll-feed
 #  - jekyll-seo-tag
 # ----------------------- #
